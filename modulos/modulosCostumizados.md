@@ -1,0 +1,1 @@
+Todos os arquvos python podem ser considerados modulos pronto para serem utilizados
