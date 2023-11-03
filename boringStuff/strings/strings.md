@@ -1,0 +1,3 @@
+STRINGS: strings em python tem funções bem similares a vetores
+voce consegue fazer muita das operações que são possiveis de ser feitas em listas com strings
+MUTABILIDADE: ao contrario de lista strings são tipos imutaveis, eu não poderia rescrever um index de uma string apenas fazendo algo tipo name[3]= 'the'. A maneira apropriada de mudar ums string seria concatenando a mesma e a movendo para uma nova string

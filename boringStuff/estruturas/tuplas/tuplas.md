@@ -1,0 +1,1 @@
+TUPLAS:Tuplas são estruturas bem parecidas com as listas, com algumas diferenças. Pra começar, ela se delimeta através de parenteses e não conchetes. Além disso tuplas são imutaveis. seus valores não podem ser removidos, modificados ou appended. Em tuplas vc pode usar  uma lista como um elemeento. Listas podem ser convertidas como tuplas e tuplas como lista
